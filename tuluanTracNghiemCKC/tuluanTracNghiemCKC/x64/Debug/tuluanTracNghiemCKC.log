@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\CA3\Tran Quoc Khanh\tuluanTracNghiemCKC\tuluanTracNghiemCKC\Tracnghiem.h(29,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\CA3\Tran Quoc Khanh\tuluanTracNghiemCKC\tuluanTracNghiemCKC\Tracnghiem.h(37,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\CA3\Tran Quoc Khanh\tuluanTracNghiemCKC\tuluanTracNghiemCKC\Ktra.h(71,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\CA3\Tran Quoc Khanh\tuluanTracNghiemCKC\tuluanTracNghiemCKC\main.cpp(3,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  tuluanTracNghiemCKC.vcxproj -> D:\CA3\Tran Quoc Khanh\tuluanTracNghiemCKC\x64\Debug\tuluanTracNghiemCKC.exe
