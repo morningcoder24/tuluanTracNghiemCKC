@@ -1,0 +1,8 @@
+﻿  FileName.cpp
+H:\C++\OOP\tuluantracnghiem\tuluantracnghiem\Tracnghiem.h(29,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+H:\C++\OOP\tuluantracnghiem\tuluantracnghiem\Tracnghiem.h(37,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+H:\C++\OOP\tuluantracnghiem\tuluantracnghiem\Tuluan.h(24,15): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+H:\C++\OOP\tuluantracnghiem\tuluantracnghiem\Tuluan.h(29,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+H:\C++\OOP\tuluantracnghiem\tuluantracnghiem\FileName.cpp(3,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+H:\C++\OOP\tuluantracnghiem\tuluantracnghiem\FileName.cpp(9,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  tuluantracnghiem.vcxproj -> H:\C++\OOP\tuluantracnghiem\x64\Debug\tuluantracnghiem.exe
